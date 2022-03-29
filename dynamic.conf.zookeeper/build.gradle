@@ -1,0 +1,8 @@
+plugins {
+}
+
+dependencies {
+  compile project(":dynamic.conf")
+  compile "org.apache.curator:curator-recipes:5.1.0"
+}
+

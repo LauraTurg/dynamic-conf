@@ -1,0 +1,5 @@
+rootProject.name = 'dynamic-conf'
+
+include "dynamic.conf"
+include "dynamic.conf.jdbc"
+include "dynamic.conf.zookeeper"
